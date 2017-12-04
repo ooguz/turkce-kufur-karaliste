@@ -2,3 +2,7 @@
 
 Türkçe için bir küfür kara listesi. 
 A bad word blacklist for Turkish.
+
+## Lisans
+
+Creative Commons Attribution-ShareAlike 4.0 International
