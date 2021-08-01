@@ -1,20 +1,21 @@
 abaza
 abazan
 ag
-ağzına sıçayım
+ağzına
+sıçayım
 ahmak
 allah
 allahsız
 am
 amarım
 ambiti
-am biti
+am 
+biti
 amcığı 
 amcığın
 amcığını
 amcığınızı
 amcık
-amcık hoşafı
 amcıklama
 amcıklandı
 amcik
@@ -28,30 +29,25 @@ amcuk
 amık
 amına
 amınako
-amına koy
-amına koyarım
-amına koyayım
+amına
+amınakoyarım
+amınakoyayım
 amınakoyim
-amına koyyim
-amına s
-amına sikem
-amına sokam
-amın feryadı
+amınakoyyim
+amınas
+amınasikem
+amınasokam
+amınferyadı
 amını
-amını s
-amın oglu
+amınıs
+amınoglu
 amınoğlu
-amın oğlu
+amın
 amısına
 amısını
 amina
-amina g
-amina k
 aminako
 aminakoyarim
-amina koyarim
-amina koyayım
-amina koyayim
 aminakoyim
 aminda
 amindan
@@ -59,7 +55,6 @@ amindayken
 amini
 aminiyarraaniskiim
 aminoglu
-amin oglu
 amiyum
 amk
 amkafa
@@ -96,9 +91,12 @@ anandan
 ananı
 ananı 
 ananın
-ananın am
-ananın amı
-ananın dölü
+ananın 
+am
+ananın 
+amı
+ananın 
+dölü
 ananınki
 ananısikerim
 ananı sikerim
@@ -109,14 +107,17 @@ ananızın am
 anani
 ananin
 ananisikerim
-anani sikerim
+anani 
+sikerim
 ananisikeyim
-anani sikeyim
+anani 
+sikeyim
 anann
 ananz
 anas
 anasını
-anasının am
+anasının 
+am
 anası orospu
 anasi
 anasinin
@@ -147,8 +148,10 @@ babaannesi kaşar
 babanı
 babanın
 babani
-babası pezevenk
-bacağına sıçayım
+babası 
+pezevenk
+bacağına 
+sıçayım
 bacına
 bacını
 bacının
@@ -281,7 +284,8 @@ götü
 götün
 götüne
 götünekoyim
-götüne koyim
+götüne 
+koyim
 götünü
 götveren
 göt veren
@@ -323,7 +327,8 @@ imansz
 ipne
 iserim
 işerim
-itoğlu it
+itoğlu 
+it
 kafam girsin
 kafasız
 kafasiz
@@ -347,7 +352,8 @@ kerhanelerde
 kevase
 kevaşe
 kevvase
-koca göt
+koca 
+göt
 koduğmun
 koduğmunun
 kodumun
@@ -392,16 +398,22 @@ oğlu it
 orosbucocuu
 orospu
 orospucocugu
-orospu cocugu
-orospu çoc
+orospu 
+cocugu
+orospu 
+çoc
 orospuçocuğu
-orospu çocuğu
-orospu çocuğudur
-orospu çocukları
+orospu 
+çocuğu
+orospu 
+çocuğudur
+orospu 
+çocukları
 orospudur
 orospular
 orospunun
-orospunun evladı
+orospunun 
+evladı
 orospuydu
 orospuyuz
 orostoban
@@ -409,7 +421,8 @@ orostopol
 orrospu
 oruspu
 oruspuçocuğu
-oruspu çocuğu
+oruspu 
+çocuğu
 osbir
 ossurduum
 ossurmak
@@ -421,13 +434,13 @@ osururum
 otuzbir
 öküz
 öşex
-patlak zar
+patlak
 penis
 pezevek
 pezeven
 pezeveng
 pezevengi
-pezevengin evladı
+pezevengin
 pezevenk
 pezo
 pic
@@ -567,15 +580,14 @@ siktim
 siktimin
 siktiminin
 siktir
-siktir et
 siktirgit
-siktir git
 siktirir
 siktiririm
 siktiriyor
-siktir lan
+siktir 
+lan
 siktirolgit
-siktir ol git
+siktir
 sittimin
 sittir
 skcem
@@ -634,7 +646,8 @@ vajina
 vajinanı
 veled
 veledizina
-veled i zina
+veled 
+zina
 verdiimin
 weled
 weledizina
